@@ -1,0 +1,6 @@
+{
+  "name": "Global Logistics CMS",
+  "description": "A premium, customizable logistics company website and admin panel.",
+  "requestFramePermissions": [],
+ "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
